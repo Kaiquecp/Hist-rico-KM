@@ -1,0 +1,2 @@
+O código SQL calcula a quilometragem rodando de veículos em datas específicas. Primeiro, cria uma tabela temporária com datas distintas, em seguida, define uma consulta dinâmica que calcula a quilometragem máxima e mínima por veículo e data. 
+A consulta final retorna o código do veículo, número do veículo, data formatada e a quilometragem rodada, com os resultados organizados por veículo e data. Após executar a consulta, a tabela temporária é descartada.
